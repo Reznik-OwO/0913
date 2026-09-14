@@ -218,4 +218,4 @@ git rebase --skip
 
 **仓库里保存的提交历史构成一张有向无环图（DAG），分支只是这张图上的一个可移动指针。**
 
-![very difficult](https://img.remit.ee/i/lvDGIGS4kzVq "very difficult!")
+![你的使命还没结束](https://img.remit.ee/i/lvDGIGS4kzVq "very difficult!")
